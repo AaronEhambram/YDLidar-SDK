@@ -29,6 +29,8 @@
 *.app
 
 # IDE
+build/*
+install/*
 .vscode/*
 CMakeLists.txt.*
 build/cmake_install.cmake
